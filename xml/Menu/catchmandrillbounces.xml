@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/catch-bounces</path>
+    <page_callback>CRM_Catchmandrillbounces_Page_CatchBounces</page_callback>
+    <title>CatchBounces</title>
+    <access_arguments>access CiviMail subscribe/unsubscribe pages</access_arguments>
+  </item>
+</menu>
